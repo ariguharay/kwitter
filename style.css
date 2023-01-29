@@ -1,0 +1,32 @@
+#a1 {
+    width: 60px;
+    height: 60px;
+}
+
+#a2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+#any {
+    background-color: #abe4e4;
+    width: 680px;
+}
+body {
+    background-color:#aae6e1;
+}
+
+button {
+    background-color: #f1c0b5;
+}
+
+#lo {
+    float: right;
+}
+
+#any1 {
+    background-color: #786fa6;
+}
+
+
